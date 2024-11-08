@@ -1,4 +1,4 @@
-@media (max-width: 1165px) {
+@media (max-width: 1365px) {
 /* I */
 .menu {
     font-size: 1rem;
@@ -6,7 +6,7 @@
 }
 
 .logo {
-     padding-left: 10%;
+     padding-left: 5%;
 }
 
 .logo img {
@@ -186,6 +186,11 @@
 
 .hero-content img {
     margin-top: -0.01rem;
+}
+
+.social a img {
+    width: 0.9rem;
+    margin-left: 0.625rem;
 }
 
 }
